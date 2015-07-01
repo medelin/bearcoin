@@ -6,7 +6,7 @@ http://www.bearcoin.info.
 
 Copyright (c) 2015 Bearcoins Developers
 
-What is Nautiluscoin?
+What is Bearcoin?
 ----------------
 
 Barcoin is an experimental new digital currency based on Nautiluscoin, 
